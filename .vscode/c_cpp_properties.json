@@ -1,0 +1,28 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "/home/mario/.arduino15/packages/esp8266/hardware/esp8266/2.3.0/cores/esp8266",
+                "/home/mario/.arduino15/packages/arduino/hardware/avr/1.6.21/cores/arduino",
+                "/home/mario/.arduino15/packages/arduino/hardware/avr/1.6.21/libraries",
+                "/home/mario/Documents/apps/arduino-1.8.5/hardware/arduino/avr/cores/arduino",
+                "/home/mario/Documents/Arduino/libraries",
+                "${workspaceRoot}/arduino"
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": false,
+                "path": [
+                    "/home/mario/.arduino15/packages/esp8266/hardware/esp8266/2.3.0/cores/esp8266",
+                    "/home/mario/.arduino15/packages/arduino/hardware/avr/1.6.21/cores/arduino",
+                    "/home/mario/.arduino15/packages/arduino/hardware/avr/1.6.21/libraries",
+                    "/home/mario/Documents/apps/arduino-1.8.5/hardware/arduino/avr/cores/arduino",
+                    "/home/mario/Documents/Arduino/libraries",
+                    "${workspaceRoot}/arduino"
+                ]
+            },
+            "intelliSenseMode": "clang-x64"
+        }
+    ],
+    "version": 4
+}
